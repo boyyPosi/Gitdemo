@@ -2,6 +2,6 @@ start
 
 learning how to use github!
 
-## shubheader
+## subheader
 
 watching a tutotal video on youtube.
